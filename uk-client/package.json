@@ -16,7 +16,7 @@
     "react-redux": "^7.1.0",
     "react-scripts": "3.0.1",
     "redux": "^4.0.1",
-    "three": "^0.106.2",
+    "three": "^0.137.0",
     "typescript": "3.5.2"
   },
   "scripts": {
